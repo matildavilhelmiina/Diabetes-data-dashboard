@@ -14,3 +14,6 @@ __pycache__/
 
 # Mac files
 .DS_Store
+
+# IDE settings
+.idea/
